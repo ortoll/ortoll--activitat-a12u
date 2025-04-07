@@ -31,3 +31,14 @@ Recorda, per crear el teu repositori:
  
  1. Crea el fitxer `README.md` amb les instruccions de l’activitat que has creat.
  
+## 📝 Descripció de l’activitat
+
+Simularàs que has de fer una **introducció visual al Markdown** per una xerrada tècnica. El teu README serà com una *diapositiva interactiva* on expliques:
+
+- Què és Markdown
+- Per què s’utilitza
+- Com s’escriu (amb exemples)
+- Trucs visuals útils
+- Taules, quotes, codis, enllaços i més
+
+I ho faràs de forma creativa, com si estiguessis preparant una presentació per a un públic no expert.
