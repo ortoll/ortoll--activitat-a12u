@@ -93,7 +93,7 @@ També pots combinar formats:
 ## 📊 Criteris d’Avaluació
 
 | Criteri                                                  | Punts |
-|----------------------------------------------------------|-------:|
+|----------------------------------------------------------|-------|
 | Claredat i estructura de les instruccions                | 2     |
 | Dificultat i originalitat de la proposta                 | 2     |
 | Ús correcte i complet del Markdown                       | 2     |
