@@ -69,6 +69,14 @@ I ho faràs de forma creativa, com si estiguessis preparant una presentació per
  
 ### 📝 Exemples de format
 
-Cursiva-(*Cursiva*)  
-Negreta-(**Negreta**)  
-Codi en línia-(`Codi en línia`)
+Aqui tens alguns dels formats bàsics més utilitzats a Markdown:
+
+| Format | Sintaxi | Resultat |
+|--------|---------|----------|
+| Cursiva | `*Cursiva*` | *Cursiva* |
+| Negreta | `**Negreta**` | **Negreta** |
+| Codi en línia | `` `Codi en línia` `` | `Codi en línia` |
+
+També pots combinar formats:
+```markdown
+**_Negreta i cursiva_**
