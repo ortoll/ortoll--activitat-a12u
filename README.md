@@ -97,3 +97,9 @@ Aqui tens alguns dels formats bàsics més utilitzats a Markdown:
 | Explicació d’un concepte nou (investigació pròpia)       | 2     |
 | Organització del repositori i qualitat dels commits      | 2     |
 | **Total**                                                | **10** |
+
+## Consells
+
+- Pots revisar activitats anteriors per inspirar-te en el format.
+- Pensa en els errors o dubtes que has tingut i com els podries explicar.
+- Imagina que realment un company farà la teva activitat i en dependrà la seva nota!
