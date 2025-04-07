@@ -6,4 +6,4 @@ Aprofitaràs totes les funcionalitats del Markdown per fer que el teu README sig
 
 ## 📁 Nom del repositori
 
-Crea un nou repositori amb el nom: <Cognom>-presentacio-markdown
+Crea un nou repositori amb el nom: Cognom-presentacio-markdown
