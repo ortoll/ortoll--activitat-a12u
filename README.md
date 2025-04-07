@@ -87,10 +87,10 @@ També pots combinar formats:
 
 ## Lliurament
 
-1. Comprova que el teu `README.md` sigui entenedor i estigui ben estructurat.
-2. Comprova que hi hagi com a mínim **7 commits**, amb missatges clars.
+1. Comprova que el teu `README.md` sigui **entenedor** i estigui **ben estructurat**.
+2. Comprova que hi hagi com a mínim **7 commits**, amb missatges **clars**.
 
-## Criteris d’avaluació
+## 📊 Criteris d’Avaluació
 
 | Criteri                                                  | Punts |
 |----------------------------------------------------------|-------:|
@@ -99,4 +99,4 @@ També pots combinar formats:
 | Ús correcte i complet del Markdown                       | 2     |
 | Explicació d’un concepte nou (investigació pròpia)       | 2     |
 | Organització del repositori i qualitat dels commits      | 2     |
-| **Total**                                                | **10*
+| **Total**                                                | **10** |
