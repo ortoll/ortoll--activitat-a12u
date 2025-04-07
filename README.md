@@ -80,3 +80,8 @@ Aqui tens alguns dels formats bàsics més utilitzats a Markdown:
 També pots combinar formats:
 ```markdown
 **_Negreta i cursiva_**
+
+## Temps de dedicació:
+
+* 2 hores
+
