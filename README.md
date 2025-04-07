@@ -29,8 +29,6 @@ Recorda, per crear el teu repositori:
  1. Entra a la carpeta del projecte que acaba de crear el **`git clone`** que has fet:
        <pre>cd <b>&lt;PrimerCognomAlumne>-presentacio-markdown</b></pre>
  
- 1. Crea el fitxer `README.md` amb les instruccions de l’activitat que has creat.
- 
 ## 📝 Descripció de l’activitat
 
 Simularàs que has de fer una **introducció visual al Markdown** per una xerrada tècnica. El teu README serà com una *diapositiva interactiva* on expliques:
@@ -42,3 +40,9 @@ Simularàs que has de fer una **introducció visual al Markdown** per una xerrad
 - Taules, quotes, codis, enllaços i més
 
 I ho faràs de forma creativa, com si estiguessis preparant una presentació per a un públic no expert.
+
+## ✅ Passos a seguir
+
+1. **Crea el repositori** amb el nom indicat.
+2. Afegeix un `.gitignore` (pots usar un de general).
+3. Crea un fitxer `README.md` amb l’estructura següent:
