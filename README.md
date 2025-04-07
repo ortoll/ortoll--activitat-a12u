@@ -53,6 +53,10 @@ I ho faràs de forma creativa, com si estiguessis preparant una presentació per
 - Títol gran (`#`)
 - El teu nom i data
 - Un o més **badges** (nova funcionalitat!)  
+  Exemple:
+  ```markdown
+  ![Status](https://img.shields.io/badge/estat-actiu-brightgreen)
+  ![Autor](https://img.shields.io/badge/autor-TuNom-blue)
   
 ## Índex
 - [Què és Markdown](#què-és-markdown)
@@ -61,3 +65,8 @@ I ho faràs de forma creativa, com si estiguessis preparant una presentació per
 - [Taules i codis](#taules-i-codis)
 - [Quotes i consells](#quotes-i-consells)
 - [Recursos externs](#recursos-externs)
+ 
+## Exemples de format
+*Cursiva*  
+**Negreta**  
+`Codi en línia`
