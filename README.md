@@ -85,3 +85,18 @@ També pots combinar formats:
 
 * 2 hores
 
+## Lliurament
+
+1. Comprova que el teu `README.md` sigui entenedor i estigui ben estructurat.
+2. Comprova que hi hagi com a mínim **7 commits**, amb missatges clars.
+
+## Criteris d’avaluació
+
+| Criteri                                                  | Punts |
+|----------------------------------------------------------|-------:|
+| Claredat i estructura de les instruccions                | 2     |
+| Dificultat i originalitat de la proposta                 | 2     |
+| Ús correcte i complet del Markdown                       | 2     |
+| Explicació d’un concepte nou (investigació pròpia)       | 2     |
+| Organització del repositori i qualitat dels commits      | 2     |
+| **Total**                                                | **10*
