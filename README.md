@@ -52,7 +52,8 @@ I ho faràs de forma creativa, com si estiguessis preparant una presentació per
 #### 1. **Portada**
 - Títol gran (`#`)
 - El teu nom i data
-- Un o més **badges** (nova funcionalitat!)  
+- Un o més **badges** (nova funcionalitat!)
+  Els badges són imatges dinàmiques que mostren informació útil del projecte: versió, estat, autor, llicència, etc.  
   Exemple:
   ```markdown
   ![Status](https://img.shields.io/badge/estat-actiu-brightgreen)
@@ -66,7 +67,8 @@ I ho faràs de forma creativa, com si estiguessis preparant una presentació per
 - [Quotes i consells](#quotes-i-consells)
 - [Recursos externs](#recursos-externs)
  
-## Exemples de format
-*Cursiva*  
-**Negreta**  
-`Codi en línia`
+### 📝 Exemples de format
+
+Cursiva-(*Cursiva*)  
+Negreta-(**Negreta**)  
+Codi en línia-(`Codi en línia`)
