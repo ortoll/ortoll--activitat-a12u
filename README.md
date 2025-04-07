@@ -4,6 +4,30 @@ En aquesta activitat et convertiràs en **presentador/a tècnic**. Crearàs una 
 
 Aprofitaràs totes les funcionalitats del Markdown per fer que el teu README sigui dinàmic, didàctic i professional. A més, afegiràs un element nou: **Badges** (insígnies) per mostrar versions, estat del projecte, o autor.
 
-## 📁 Nom del repositori
+## Que has de fer?
 
-Crea un nou repositori amb el nom: Cognom-presentacio-markdown
+Recorda, per crear el teu repositori:
+
+ 1. **NO marcar** "Add a README file".
+ 
+ 1. Clicar **Create repository**.
+ 
+1. Convidar al col·laborador **`joanpardogine`** al teu repositori remot.
+
+ 1. Per clonar el repositori a la carpeta **`/c/projectes`** del teu ordinador.
+ 
+ 1. Copia l'enllaç que proporciona **GitHub** (**`https://github.com/<el-teu-usuari>/<PrimerCognomAlumne>-presentacio-markdown`**).
+
+ 1. Obre el terminal de **`Git Bash`** dins de VS Code.
+
+ 1. Escriure la següent comanda per anar a `C:\`:
+       ```bash
+       cd /c/projectes
+       ```
+ 1. Clonar el repositori:
+       <pre>git clone https://github.com/<b>&lt;el-teu-usuari></b>/<b>&lt;PrimerCognomAlumne></b>-activitat-a12u.git</pre>
+ 1. Entra a la carpeta del projecte que acaba de crear el **`git clone`** que has fet:
+       <pre>cd <b>&lt;PrimerCognomAlumne>-activitat-a12u</b></pre>
+ 
+ 1. Crea el fitxer `README.md` amb les instruccions de l’activitat que has creat.
+ 
