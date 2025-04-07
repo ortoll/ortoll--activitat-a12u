@@ -25,9 +25,9 @@ Recorda, per crear el teu repositori:
        cd /c/projectes
        ```
  1. Clonar el repositori:
-       <pre>git clone https://github.com/<b>&lt;el-teu-usuari></b>/<b>&lt;PrimerCognomAlumne></b>-activitat-a12u.git</pre>
+       <pre>git clone https://github.com/<b>&lt;el-teu-usuari></b>/<b>&lt;PrimerCognomAlumne></b>-presentacio-markdown</pre>
  1. Entra a la carpeta del projecte que acaba de crear el **`git clone`** que has fet:
-       <pre>cd <b>&lt;PrimerCognomAlumne>-activitat-a12u</b></pre>
+       <pre>cd <b>&lt;PrimerCognomAlumne>-presentacio-markdown</b></pre>
  
  1. Crea el fitxer `README.md` amb les instruccions de l’activitat que has creat.
  
