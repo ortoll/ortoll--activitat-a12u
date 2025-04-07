@@ -77,9 +77,6 @@ Aqui tens alguns dels formats bàsics més utilitzats a Markdown:
 | Negreta | `**Negreta**` | **Negreta** |
 | Codi en línia | `` `Codi en línia` `` | `Codi en línia` |
 
-També pots combinar formats:
-```markdown
-**_Negreta i cursiva_**
 
 ## Temps de dedicació:
 
