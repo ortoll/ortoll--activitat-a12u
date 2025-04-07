@@ -44,5 +44,16 @@ I ho faràs de forma creativa, com si estiguessis preparant una presentació per
 ## ✅ Passos a seguir
 
 1. **Crea el repositori** amb el nom indicat.
-2. Afegeix un `.gitignore` (pots usar un de general).
+2. Afegeix un `.gitignore` (pots utilitzar un de general).
 3. Crea un fitxer `README.md` amb l’estructura següent:
+
+### 🧩 Estructura recomanada
+
+#### 1. **Portada**
+- Títol gran (`#`)
+- El teu nom i data
+- Un o més **badges** (nova funcionalitat!)  
+  Exemple:
+  ```markdown
+  ![Status](https://img.shields.io/badge/estat-actiu-brightgreen)
+  ![Autor](https://img.shields.io/badge/autor-TuNom-blue)
